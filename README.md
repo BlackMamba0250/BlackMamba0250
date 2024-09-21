@@ -35,6 +35,9 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.10.0/icons/solidity.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.10.0/icons/mysql.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.10.0/icons/nixos.svg" height="40" alt="go logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
