@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm B Mamba from <img src="https://cdn.countryflags.com/thumbs/morocco/flag-400.png" height="30" alt="moroccan flag"> <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm B Mamba from <img src="https://cdn.countryflags.com/thumbs/morocco/flag-400.png" height="30" alt="moroccan flag"> <br> 📚 I'm currently learning Blockchain development<br>-</p>
 
 ###
 
