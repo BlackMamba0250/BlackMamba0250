@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/564x/d0/04/3d/d0043d728ba754fc43366feb4e68e7cd.jpg"  />
+  <img height="170" src="https://i.pinimg.com/564x/d0/04/3d/d0043d728ba754fc43366feb4e68e7cd.jpg"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm B Mamba from <img src="https://cdn.countryflags.com/thumbs/morocco/flag-400.png" height="40" alt="moroccan flag"> <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm B Mamba from <img src="https://cdn.countryflags.com/thumbs/morocco/flag-400.png" height="30" alt="moroccan flag"> <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
