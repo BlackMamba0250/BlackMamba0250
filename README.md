@@ -39,7 +39,6 @@
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" height="40" alt="MySql logo"  />
   <img src="https://icon.icepanel.io/Technology/svg/NixOS.svg" height="40" alt="nix-os logo"  />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Cassandra.png" height="40" alt="cassandra logo">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
